@@ -1,3 +1,3 @@
 # br-rpc
-该项目为开源项目
+# biggerRice
 该项目为自己开发rpc框架
