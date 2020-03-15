@@ -3,6 +3,9 @@ package com.br.utils;
 public class DateUtils {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
+    	if(true){
+		//删除了一行，改为了if控制块
+	}
     }
+
 }
