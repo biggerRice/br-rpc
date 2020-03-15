@@ -4,7 +4,7 @@ public class DateUtils {
 
     public static void main(String[] args) {
     	if(true){
-		//删除了一行，改为了if控制块
+		//删除了一行
 	}
     }
 
