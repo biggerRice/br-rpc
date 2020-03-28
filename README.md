@@ -1,9 +1,7 @@
-# br-rpc
-# biggerRice
-# biggerRice
-# 20200321 update
-1.开发预定系统
-2.二次开发预定系统
-该项目为自己开发rpc框架
+# br (Bigger Rice) 自研rpc远程调用系统
 
-我是张三，我new pull request了新代码
+# 项目结构
+
+# 持续开发中
+
+# add line 202003281040
